@@ -1,3 +1,6 @@
+#= Formirati matricu 4x4 koja iznad glavne dijagonale ima vrednosti 5, a na
+glavnoj dijagonali vrednosti 4  =#
+
 using LinearAlgebra
 
 function formirajMatricu()
