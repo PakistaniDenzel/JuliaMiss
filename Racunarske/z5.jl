@@ -1,3 +1,6 @@
+#=  Generisati matricu A tako da prva kolona sadrži brojeve od 1 do 10, druga
+kolona sadrži kvadrate brojeva od 1 do 10 a treća kolona sadrži prvih deset stepena broja 2. =#
+
 using LinearAlgebra
 
 function generisiMatricu()
