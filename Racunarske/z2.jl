@@ -1,3 +1,6 @@
+#= Za zadatu matricu A veličine 10x10 čije su vrednosti slučajno generisane,
+odrediti vektor v koji predstavlja sve elemente iznad glavne dijagonale. =#
+
 using LinearAlgebra
 
 function izvuciVektor()
