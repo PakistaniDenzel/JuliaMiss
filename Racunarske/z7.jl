@@ -1,3 +1,5 @@
+# Napisati funkciju koja izračunava obim i površinu kruga poluprečnika r.
+
 using LinearAlgebra
 
 function obimKruga(r)
@@ -9,3 +11,4 @@ function povrsinaKruga(r)
     println("Povrsina kruga je: ", round(4*pi*(r^2)))
     return round(4*pi*(r^2));
 end
+
