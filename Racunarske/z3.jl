@@ -1,3 +1,6 @@
+#= Neka je zadata proizvoljna matrica A. Odrediti redni broj vrste sa
+maksimlanim zbirom elemenata. =#
+
 using LinearAlgebra
 
 #= findmax vraca (maxVrednost, CartesianIndex(vrsta, kolona)) [2][1] pristupamo
